@@ -13,6 +13,7 @@
     "@react-native-community/voice": "^1.1.9",
     "@react-navigation/native": "^6.1.10",
     "@react-navigation/native-stack": "^6.9.18",
+    "axios": "^1.6.7",
     "expo": "~50.0.6",
     "expo-av": "^13.10.5",
     "expo-permissions": "^14.4.0",
